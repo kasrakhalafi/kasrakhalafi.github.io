@@ -1,3 +1,6 @@
+![Swiss Alps](https://avatars.githubusercontent.com/u/44527993?s=96&v=4)
+
+
 ---
 title:  "Markdown examples"
 layout: post
