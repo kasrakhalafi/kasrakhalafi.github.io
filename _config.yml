@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:kasra.khalafi@queensu.ca"}
   - {title: Github, icon: github, url: "https://github.com/kasrakhalafi"}
   - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/kasra-khalafi/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
